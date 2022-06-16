@@ -1,0 +1,109 @@
+[
+{
+  "model": "surfers.surfer",
+  "pk": 2,
+  "fields": {
+    "nationality": "American",
+    "name": "John John Florence",
+    "age": 29,
+    "rank": null,
+    "still_active": true,
+    "styles": []
+  }
+},
+{
+  "model": "surfers.surfer",
+  "pk": 3,
+  "fields": {
+    "nationality": "Australian",
+    "name": "Mick Fanning",
+    "age": 40,
+    "rank": null,
+    "still_active": true,
+    "styles": []
+  }
+},
+{
+  "model": "surfers.surfer",
+  "pk": 4,
+  "fields": {
+    "nationality": "Brazilian",
+    "name": "Gabriel Medina",
+    "age": 28,
+    "rank": null,
+    "still_active": true,
+    "styles": []
+  }
+},
+{
+  "model": "surfers.surfer",
+  "pk": 5,
+  "fields": {
+    "nationality": "Brazilian",
+    "name": "Italo Ferreira",
+    "age": 28,
+    "rank": null,
+    "still_active": true,
+    "styles": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "surfers.surfer",
+  "pk": 6,
+  "fields": {
+    "nationality": "Japanese",
+    "name": "Kanoa Igarashi",
+    "age": 24,
+    "rank": 6,
+    "still_active": true,
+    "styles": [
+      2
+    ]
+  }
+},
+{
+  "model": "surfers.surfer",
+  "pk": 7,
+  "fields": {
+    "nationality": "English",
+    "name": "Matt Bailey",
+    "age": 24,
+    "rank": null,
+    "still_active": true,
+    "styles": [
+      1
+    ]
+  }
+},
+{
+  "model": "surfers.surfer",
+  "pk": 8,
+  "fields": {
+    "nationality": "American",
+    "name": "Chaaaa",
+    "age": 30,
+    "rank": null,
+    "still_active": true,
+    "styles": [
+      1
+    ]
+  }
+},
+{
+  "model": "surfers.surfer",
+  "pk": 9,
+  "fields": {
+    "nationality": "American",
+    "name": "Chaaaa",
+    "age": 30,
+    "rank": null,
+    "still_active": true,
+    "styles": [
+      1
+    ]
+  }
+}
+]
